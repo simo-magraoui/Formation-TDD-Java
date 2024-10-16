@@ -1,0 +1,11 @@
+https://qaautomation.expert/2024/01/03/run-cucumber-test-from-command-line/
+https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-writing-assertions-with-hamcrest/
+https://openclassrooms.com/fr/courses/6100311-testez-votre-code-java-pour-realiser-des-applications-de-qualite
+https://mkyong.com/spring-boot/spring-boot-junit-5-mockito/
+https://junit.org/junit5/docs/current/user-guide/
+https://blog.ippon.fr/2020/06/05/mockito-pour-les-debutants/
+https://www.toptal.com/java/a-guide-to-everyday-mockito
+https://blog.stackademic.com/a-comprehensive-guide-to-testing-spring-boot-with-junit-and-mockito-1b3d7bf00154
+
+mvn -Dtest=TestName test
+mvn archetype:generate "-DarchetypeGroupId=io.cucumber" "-DarchetypeArtifactId=cucumber-archetype" "-DarchetypeVersion=7.18.0" "-DgroupId=hellocucumber" "-DartifactId=hellocucumber" "-Dpackage=hellocucumber" "-Dversion=1.0.0-SNAPSHOT" "-DinteractiveMode=false"

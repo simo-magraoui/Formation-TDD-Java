@@ -1,0 +1,10 @@
+com\example\integration\MyAppIntegrationTest.class
+com\example\RectangleTest.class
+com\example\acceptance\MyAppAcceptanceTest.class
+com\example\integration\OrderServiceIntegrationTest.class
+com\example\OrderServiceTest.class
+com\example\CalculatorTest.class
+com\example\UserServiceTest.class
+com\example\WebTest.class
+com\example\MyAppTest.class
+com\example\system\MyAppSystemTest.class
